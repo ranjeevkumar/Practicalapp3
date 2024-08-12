@@ -25,7 +25,7 @@ In this project, we aim to enhance the performance of our machine learning model
 
 Feature engineering involves creating new features or modifying existing ones to improve model performance. For example, we might consider whether to keep the gender feature based on its correlation with the target variable and its impact on model performance.
 
-##Notebook
+## Notebook
 
 
 
