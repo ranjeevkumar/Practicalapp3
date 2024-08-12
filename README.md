@@ -27,7 +27,7 @@ Feature engineering involves creating new features or modifying existing ones to
 
 ## Notebook
 
-[Notebook] (#https://github.com/ranjeevkumar/Practicalapp3/blob/main/prompt_III.ipynb)
+[Notebook](#https://github.com/ranjeevkumar/Practicalapp3/blob/main/prompt_III.ipynb)
 
 
 
